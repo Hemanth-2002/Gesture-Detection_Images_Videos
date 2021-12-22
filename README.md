@@ -4,7 +4,16 @@ Gesture recognition becomes popular in recent years since it can play an essenti
 
 The dataset for our project is available at https://chalearnlap.cvc.uab.cat/dataset/22/description/. I have worked with ICPR 16 dataset to train the gesture detection model.
 
-![image](https://user-images.githubusercontent.com/57759564/147103718-e135d9c0-2569-4275-874f-24c7d3e4b971.png)
+In this project i managed to get the keypoints of a given jpeg file.The below images represents the work that i have done.
+
+Input image of type jpeg or png:
+
+![test1](https://user-images.githubusercontent.com/57759564/147106305-07e80179-dfaa-44e4-bff7-8d8935e154ee.jpg)
 
 
-![image](https://user-images.githubusercontent.com/57759564/147103788-d2728c34-634c-42ec-9258-26a5e6a78fbf.png)
+
+Input image along with keypoints:
+
+
+
+
