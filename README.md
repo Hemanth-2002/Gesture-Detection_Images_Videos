@@ -14,6 +14,8 @@ Input image of type jpeg or png:
 
 Input image along with keypoints:
 
+![demo](https://user-images.githubusercontent.com/57759564/147197436-1f95a43c-3151-4b01-8abc-83b0557ada71.png)
+
 
 
 
