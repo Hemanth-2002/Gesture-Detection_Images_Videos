@@ -18,4 +18,16 @@ Input image along with keypoints:
 
 
 
+For finding the keypoints of an image file i directly ran the _body_from_image.py. The output can be seen in the above image.
+The model can also mark the keypoints for a video file this can be achieved by using the following commands:
 
+-Windows
+bin\OpenPoseDemo.exe --video examples\media\video.avi
+
+-Ubuntu
+./build/examples/openpose/openpose.bin
+
+A json file can be produced using the image containing keypoints.The json file has the keypoints information.
+The json file can be loaded into the evaluate.py which gives the output containing gesture detected or not detected.
+
+I have applied the model on images and videos to find the keypoints of a file. I am yet to load the json file into the evaluate.py.
